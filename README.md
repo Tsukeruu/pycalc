@@ -22,4 +22,6 @@ ASIN (IS THE SIN INVERSE TRIGINOMETRIC FUNCTION, PARAMS=(NUMBER))
 ACOS (IS THE COS INVERSE TRIGINOMETRIC FUNCTION, PARAMS=(NUMBER))
 ATAN (IS THE TAN INVERSE TRIGINOMETRIC FUNCTION, PARAMS=(NUMBER))
 '''
-<img align="left" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b90acfa130e90e678cf51941d196448f?rik=vROLmixwqb4u%2bA&pid=ImgRaw&r=0">
+
+
+<img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b90acfa130e90e678cf51941d196448f?rik=vROLmixwqb4u%2bA&pid=ImgRaw&r=0">
