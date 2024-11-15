@@ -1,6 +1,8 @@
 # pycalc
 *some python calculator i made lol*
 
+**if you do find errors please refer to the issues page in the repo, and ill try my best to help you**
+
 *MANUAL:*
 ```
 WELCOME TO THE CALCULATOR!
