@@ -26,4 +26,4 @@ ATAN (IS THE TAN INVERSE TRIGINOMETRIC FUNCTION, PARAMS=(NUMBER))
 
 
 <img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b90acfa130e90e678cf51941d196448f?rik=vROLmixwqb4u%2bA&pid=ImgRaw&r=0">
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/25SRIrKFyRQAAAAC/tokyo-japan.gif">
+<img align="left" alt="Coding" width="400" src="https://media.tenor.com/25SRIrKFyRQAAAAC/tokyo-japan.gif">
