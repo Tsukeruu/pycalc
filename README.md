@@ -4,7 +4,7 @@
 **if you do find errors please refer to the issues page in the repo, and ill try my best to help you**
 
 *MANUAL:*
-```
+```lua
 WELCOME TO THE CALCULATOR!
 / IS A SIGN OF DIVISION, PARAMS=(FIRSTNUM, SECNODNUM)
 * IS A SIGN OF MULTIPLICATION, PARAMS=(FIRSTNUM, SECONDNUM)
