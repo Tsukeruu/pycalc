@@ -1,7 +1,7 @@
 # pycalc
-*some python calculator i made lol*
+*some python calculator i made*
 
-**if you do find errors please refer to the issues page in the repo, and ill try my best to help you**
+**if you do happen to find errors please refer to the issues page in the repo, and ill try my best to help you**
 
 *MANUAL:*
 ```lua
